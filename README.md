@@ -28,5 +28,3 @@ python atm.py
 - Used conditional statements and functions
 - Learned basic object-oriented programming
 
-## Author
-Your Name
